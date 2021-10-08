@@ -1,0 +1,233 @@
+2021-08-10 17:21:36   INFO [NegativeRegistrationTests:32  ] : Get chromeDriver
+2021-08-10 17:21:36   INFO [NegativeRegistrationTests:35  ] : browser was opened
+2021-08-10 17:22:31   INFO [NegativeRegistrationTests:32  ] : Get chromeDriver
+2021-08-10 17:22:31   INFO [NegativeRegistrationTests:35  ] : browser was opened
+2021-08-10 17:25:14   INFO [NegativeRegistrationTests:32  ] : Get chromeDriver
+2021-08-10 17:25:14   INFO [NegativeRegistrationTests:35  ] : browser was opened
+2021-08-10 17:30:38   INFO [NegativeRegistrationTests:32  ] : Get chromeDriver
+2021-08-10 17:30:39   INFO [NegativeRegistrationTests:35  ] : browser was opened
+2021-08-10 17:32:47   INFO [NegativeRegistrationTests:32  ] : Get chromeDriver
+2021-08-10 17:32:47   INFO [NegativeRegistrationTests:35  ] : browser was opened
+2021-08-10 17:36:01   INFO [    TestsR:40  ] : Get chromeDriver
+2021-08-10 17:36:01   INFO [    TestsR:43  ] : browser was opened
+2021-08-10 17:36:41   INFO [    TestsR:40  ] : Get chromeDriver
+2021-08-10 17:36:41   INFO [    TestsR:43  ] : browser was opened
+2021-08-10 17:36:45   INFO [  MainPage:24  ] : Page was opened https://rozetka.com.ua/
+2021-08-10 17:36:45   INFO [    TestsR:54  ] : Link was opened
+2021-08-10 17:37:26   INFO [    TestsR:40  ] : Get chromeDriver
+2021-08-10 17:37:26   INFO [    TestsR:43  ] : browser was opened
+2021-08-10 17:37:30   INFO [  MainPage:24  ] : Page was opened https://rozetka.com.ua/
+2021-08-10 17:37:30   INFO [    TestsR:54  ] : Link was opened
+2021-08-10 17:37:30   INFO [    TestsR:56  ] : registration window was opened
+2021-08-10 17:40:35   INFO [    TestsR:40  ] : Get chromeDriver
+2021-08-10 17:40:35   INFO [    TestsR:43  ] : browser was opened
+2021-08-10 17:41:42   INFO [    TestsR:40  ] : Get chromeDriver
+2021-08-10 17:41:42   INFO [    TestsR:43  ] : browser was opened
+2021-08-10 17:41:46   INFO [  MainPage:24  ] : Page was opened https://rozetka.com.ua/
+2021-08-10 17:41:46   INFO [    TestsR:54  ] : Link was opened
+2021-08-10 17:41:46  ERROR [WebElements:25  ] : Can't work wit element null
+2021-08-10 17:42:36   INFO [    TestsR:40  ] : Get chromeDriver
+2021-08-10 17:42:36   INFO [    TestsR:43  ] : browser was opened
+2021-08-10 17:42:40   INFO [  MainPage:24  ] : Page was opened https://rozetka.com.ua/
+2021-08-10 17:42:40   INFO [    TestsR:54  ] : Link was opened
+2021-08-10 17:42:41  ERROR [WebElements:25  ] : Can't work wit element null
+2021-08-10 17:43:04   INFO [    TestsR:40  ] : Get chromeDriver
+2021-08-10 17:43:05   INFO [    TestsR:43  ] : browser was opened
+2021-08-10 17:43:08   INFO [  MainPage:24  ] : Page was opened https://rozetka.com.ua/
+2021-08-10 17:43:08   INFO [    TestsR:54  ] : Link was opened
+2021-08-10 17:43:09  ERROR [WebElements:25  ] : Can't work wit element null
+2021-08-10 17:44:17   INFO [    TestsR:40  ] : Get chromeDriver
+2021-08-10 17:44:17   INFO [    TestsR:43  ] : browser was opened
+2021-08-10 17:44:21   INFO [  MainPage:24  ] : Page was opened https://rozetka.com.ua/
+2021-08-10 17:44:21   INFO [    TestsR:54  ] : Link was opened
+2021-08-10 17:44:22  ERROR [WebElements:25  ] : Can't work wit element null
+2021-08-10 17:45:01   INFO [    TestsR:40  ] : Get chromeDriver
+2021-08-10 17:45:01   INFO [    TestsR:43  ] : browser was opened
+2021-08-10 17:45:05   INFO [  MainPage:24  ] : Page was opened https://rozetka.com.ua/
+2021-08-10 17:45:05   INFO [    TestsR:54  ] : Link was opened
+2021-08-10 17:45:05  ERROR [WebElements:25  ] : Can't work wit element null
+2021-08-10 17:45:23   INFO [    TestsR:40  ] : Get chromeDriver
+2021-08-10 17:45:23   INFO [    TestsR:43  ] : browser was opened
+2021-08-10 17:45:27   INFO [  MainPage:24  ] : Page was opened https://rozetka.com.ua/
+2021-08-10 17:45:27   INFO [    TestsR:54  ] : Link was opened
+2021-08-10 17:45:28  ERROR [WebElements:25  ] : Can't work wit element null
+2021-08-10 17:47:32   INFO [    TestsR:40  ] : Get chromeDriver
+2021-08-10 17:47:32   INFO [    TestsR:43  ] : browser was opened
+2021-08-10 17:47:36   INFO [  MainPage:24  ] : Page was opened https://rozetka.com.ua/
+2021-08-10 17:47:36   INFO [    TestsR:54  ] : Link was opened
+2021-08-10 17:47:37  ERROR [WebElements:25  ] : Can't work wit element null
+2021-08-10 17:51:04   INFO [    TestsR:40  ] : Get chromeDriver
+2021-08-10 17:51:04   INFO [    TestsR:43  ] : browser was opened
+2021-08-10 17:51:08   INFO [  MainPage:24  ] : Page was opened https://rozetka.com.ua/
+2021-08-10 17:51:08   INFO [    TestsR:54  ] : Link was opened
+2021-08-10 17:51:09  ERROR [WebElements:25  ] : Can't work wit element null
+2021-08-10 17:56:08   INFO [    TestsR:40  ] : Get chromeDriver
+2021-08-10 17:56:09   INFO [    TestsR:43  ] : browser was opened
+2021-08-10 17:56:11   INFO [  MainPage:24  ] : Page was opened https://tavriav.org/
+2021-08-10 17:56:11   INFO [    TestsR:54  ] : Link was opened
+2021-08-10 17:56:32   INFO [    TestsR:40  ] : Get chromeDriver
+2021-08-10 17:56:32   INFO [    TestsR:43  ] : browser was opened
+2021-08-10 17:56:34   INFO [  MainPage:24  ] : Page was opened https://tavriav.org/
+2021-08-10 17:56:34   INFO [    TestsR:54  ] : Link was opened
+2021-08-10 17:58:56   INFO [    TestsR:40  ] : Get chromeDriver
+2021-08-10 17:58:56   INFO [    TestsR:43  ] : browser was opened
+2021-08-10 17:58:58   INFO [  MainPage:24  ] : Page was opened https://tavriav.org/
+2021-08-10 17:58:58   INFO [    TestsR:54  ] : Link was opened
+2021-08-10 18:00:24   INFO [    TestsR:40  ] : Get chromeDriver
+2021-08-10 18:00:24   INFO [    TestsR:43  ] : browser was opened
+2021-08-10 18:00:26   INFO [  MainPage:24  ] : Page was opened https://tavriav.org/
+2021-08-10 18:00:26   INFO [    TestsR:54  ] : Link was opened
+2021-08-10 18:02:04   INFO [    TestsR:40  ] : Get chromeDriver
+2021-08-10 18:02:04   INFO [    TestsR:43  ] : browser was opened
+2021-08-10 18:02:08   INFO [  MainPage:24  ] : Page was opened https://rozetka.com.ua/
+2021-08-10 18:02:08   INFO [    TestsR:54  ] : Link was opened
+2021-08-10 18:02:08  ERROR [WebElements:25  ] : Can't work wit element null
+2021-08-10 18:03:02   INFO [    TestsR:40  ] : Get chromeDriver
+2021-08-10 18:03:02   INFO [    TestsR:43  ] : browser was opened
+2021-08-10 18:03:06   INFO [  MainPage:24  ] : Page was opened https://rozetka.com.ua/
+2021-08-10 18:03:06   INFO [    TestsR:54  ] : Link was opened
+2021-08-10 18:03:06  ERROR [WebElements:25  ] : Can't work wit element null
+2021-08-10 18:04:09   INFO [    TestsR:40  ] : Get chromeDriver
+2021-08-10 18:04:09   INFO [    TestsR:43  ] : browser was opened
+2021-08-10 18:04:12   INFO [  MainPage:24  ] : Page was opened https://rozetka.com.ua/
+2021-08-10 18:04:12   INFO [    TestsR:54  ] : Link was opened
+2021-08-10 18:04:13  ERROR [WebElements:25  ] : Can't work wit element null
+2021-08-10 18:07:56   INFO [    TestsR:40  ] : Get chromeDriver
+2021-08-10 18:07:56   INFO [    TestsR:43  ] : browser was opened
+2021-08-10 18:08:00   INFO [  MainPage:24  ] : Page was opened https://rozetka.com.ua/
+2021-08-10 18:08:00   INFO [    TestsR:54  ] : Link was opened
+2021-08-10 18:16:44   INFO [    TestsR:40  ] : Get chromeDriver
+2021-08-10 18:16:45   INFO [    TestsR:43  ] : browser was opened
+2021-08-10 18:16:48   INFO [  MainPage:24  ] : Page was opened https://rozetka.com.ua/
+2021-08-10 18:16:48   INFO [    TestsR:54  ] : Link was opened
+2021-08-10 18:19:15   INFO [    TestsR:41  ] : Get chromeDriver
+2021-08-10 18:19:15   INFO [    TestsR:44  ] : browser was opened
+2021-08-10 18:19:19   INFO [  MainPage:24  ] : Page was opened https://rozetka.com.ua/
+2021-08-10 18:19:19   INFO [    TestsR:55  ] : Link was opened
+2021-08-10 18:19:54   INFO [    TestsR:41  ] : Get chromeDriver
+2021-08-10 18:19:54   INFO [    TestsR:44  ] : browser was opened
+2021-08-10 18:19:58   INFO [  MainPage:24  ] : Page was opened https://rozetka.com.ua/
+2021-08-10 18:19:58   INFO [    TestsR:55  ] : Link was opened
+2021-08-10 18:24:02   INFO [    TestsR:42  ] : Get chromeDriver
+2021-08-10 18:24:02   INFO [    TestsR:45  ] : browser was opened
+2021-08-10 18:24:05   INFO [  MainPage:24  ] : Page was opened https://rozetka.com.ua/
+2021-08-10 18:24:05   INFO [    TestsR:70  ] : Link was opened
+2021-08-10 18:25:17   INFO [    TestsR:42  ] : Get chromeDriver
+2021-08-10 18:25:17   INFO [    TestsR:45  ] : browser was opened
+2021-08-10 18:25:21   INFO [  MainPage:24  ] : Page was opened https://rozetka.com.ua/
+2021-08-10 18:25:21   INFO [    TestsR:56  ] : Link was opened
+2021-08-10 18:26:08   INFO [    TestsR:42  ] : Get chromeDriver
+2021-08-10 18:26:08   INFO [    TestsR:45  ] : browser was opened
+2021-08-10 18:26:11   INFO [  MainPage:24  ] : Page was opened https://rozetka.com.ua/
+2021-08-10 18:26:11   INFO [    TestsR:56  ] : Link was opened
+2021-08-10 18:26:49   INFO [    TestsR:42  ] : Get chromeDriver
+2021-08-10 18:26:49   INFO [    TestsR:45  ] : browser was opened
+2021-08-10 18:26:52   INFO [  MainPage:24  ] : Page was opened https://rozetka.com.ua/
+2021-08-10 18:26:52   INFO [    TestsR:56  ] : Link was opened
+2021-08-10 18:28:33   INFO [    TestsR:42  ] : Get chromeDriver
+2021-08-10 18:28:33   INFO [    TestsR:45  ] : browser was opened
+2021-08-10 18:28:36   INFO [  MainPage:24  ] : Page was opened https://rozetka.com.ua/
+2021-08-10 18:28:36   INFO [    TestsR:56  ] : Link was opened
+2021-08-10 18:32:07   INFO [    TestsR:42  ] : Get chromeDriver
+2021-08-10 18:32:08   INFO [    TestsR:45  ] : browser was opened
+2021-08-10 18:32:17   INFO [  MainPage:24  ] : Page was opened https://rozetka.com.ua/
+2021-08-10 18:32:17   INFO [    TestsR:57  ] : Link was opened
+2021-08-10 18:35:26   INFO [    TestsR:42  ] : Get chromeDriver
+2021-08-10 18:35:26   INFO [    TestsR:45  ] : browser was opened
+2021-08-10 18:35:30   INFO [  MainPage:24  ] : Page was opened https://rozetka.com.ua/
+2021-08-10 18:35:30   INFO [    TestsR:57  ] : Link was opened
+2021-08-10 18:36:45   INFO [    TestsR:42  ] : Get chromeDriver
+2021-08-10 18:36:45   INFO [    TestsR:45  ] : browser was opened
+2021-08-10 18:36:50   INFO [  MainPage:24  ] : Page was opened https://rozetka.com.ua/
+2021-08-10 18:36:50   INFO [    TestsR:74  ] : Link was opened
+2021-08-10 18:39:00   INFO [    TestsR:42  ] : Get chromeDriver
+2021-08-10 18:39:00   INFO [    TestsR:45  ] : browser was opened
+2021-08-10 18:39:04   INFO [  MainPage:24  ] : Page was opened https://rozetka.com.ua/
+2021-08-10 18:39:04   INFO [    TestsR:92  ] : Link was opened
+2021-08-10 18:39:52   INFO [    TestsR:42  ] : Get chromeDriver
+2021-08-10 18:39:52   INFO [    TestsR:45  ] : browser was opened
+2021-08-10 18:39:57   INFO [  MainPage:24  ] : Page was opened https://rozetka.com.ua/
+2021-08-10 18:39:57   INFO [    TestsR:92  ] : Link was opened
+2021-08-10 18:48:44   INFO [    TestsR:43  ] : Get chromeDriver
+2021-08-10 18:48:44   INFO [    TestsR:46  ] : browser was opened
+2021-08-10 18:48:48   INFO [  MainPage:24  ] : Page was opened https://rozetka.com.ua/
+2021-08-10 18:48:48   INFO [    TestsR:75  ] : Link was opened
+2021-08-10 18:48:50   INFO [WebElements:34  ] : Element was clicked: [[ChromeDriver: chrome on WINDOWS (fc41f23b2b2a9be4c3022fa4fdd9279f)] -> xpath: (//button[contains(text(),'Зарегистрироваться')])[1]]
+2021-08-10 18:49:24   INFO [    TestsR:43  ] : Get chromeDriver
+2021-08-10 18:49:24   INFO [    TestsR:46  ] : browser was opened
+2021-08-10 18:49:28   INFO [  MainPage:24  ] : Page was opened https://rozetka.com.ua/
+2021-08-10 18:49:28   INFO [    TestsR:75  ] : Link was opened
+2021-08-10 18:50:38   INFO [    TestsR:43  ] : Get chromeDriver
+2021-08-10 18:50:38   INFO [    TestsR:46  ] : browser was opened
+2021-08-10 18:50:43   INFO [  MainPage:24  ] : Page was opened https://rozetka.com.ua/
+2021-08-10 18:50:43   INFO [    TestsR:75  ] : Link was opened
+2021-08-10 18:50:45   INFO [WebElements:34  ] : Element was clicked: [[ChromeDriver: chrome on WINDOWS (bd7da09d000519ed028e026b9071355c)] -> xpath: (//button[contains(text(),'Зарегистрироваться')])[1]]
+2021-08-10 18:51:29   INFO [    TestsR:43  ] : Get chromeDriver
+2021-08-10 18:51:30   INFO [    TestsR:46  ] : browser was opened
+2021-08-10 18:51:33   INFO [  MainPage:24  ] : Page was opened https://rozetka.com.ua/
+2021-08-10 18:51:33   INFO [    TestsR:75  ] : Link was opened
+2021-08-10 18:55:41   INFO [    TestsR:43  ] : Get chromeDriver
+2021-08-10 18:55:41   INFO [    TestsR:46  ] : browser was opened
+2021-08-10 18:55:45   INFO [  MainPage:24  ] : Page was opened https://rozetka.com.ua/
+2021-08-10 18:55:45   INFO [    TestsR:95  ] : Link was opened
+2021-08-10 18:58:32   INFO [    TestsR:43  ] : Get chromeDriver
+2021-08-10 18:58:32   INFO [    TestsR:46  ] : browser was opened
+2021-08-10 18:58:36   INFO [  MainPage:24  ] : Page was opened https://rozetka.com.ua/
+2021-08-10 18:58:36   INFO [    TestsR:96  ] : Link was opened
+2021-08-10 18:59:29   INFO [    TestsR:43  ] : Get chromeDriver
+2021-08-10 18:59:29   INFO [    TestsR:46  ] : browser was opened
+2021-08-10 18:59:33   INFO [  MainPage:24  ] : Page was opened https://rozetka.com.ua/
+2021-08-10 18:59:33   INFO [    TestsR:96  ] : Link was opened
+2021-08-10 19:00:06   INFO [    TestsR:43  ] : Get chromeDriver
+2021-08-10 19:00:06   INFO [    TestsR:46  ] : browser was opened
+2021-08-10 19:00:10   INFO [  MainPage:24  ] : Page was opened https://rozetka.com.ua/
+2021-08-10 19:00:10   INFO [    TestsR:96  ] : Link was opened
+2021-08-10 19:01:52   INFO [    TestsR:43  ] : Get chromeDriver
+2021-08-10 19:01:52   INFO [    TestsR:46  ] : browser was opened
+2021-08-10 19:01:56   INFO [  MainPage:24  ] : Page was opened https://rozetka.com.ua/
+2021-08-10 19:01:56   INFO [    TestsR:96  ] : Link was opened
+2021-08-10 19:05:58   INFO [    TestsR:43  ] : Get chromeDriver
+2021-08-10 19:05:58   INFO [    TestsR:46  ] : browser was opened
+2021-08-10 19:06:02   INFO [  MainPage:24  ] : Page was opened https://rozetka.com.ua/
+2021-08-10 19:06:02   INFO [    TestsR:96  ] : Test input valid data started
+2021-08-10 19:06:04   INFO [    TestsR:104 ] : data was inputted
+2021-08-10 19:06:05   INFO [    TestsR:106 ] : Submit button was clicked
+2021-08-10 19:23:13   INFO [    TestsR:43  ] : Get chromeDriver
+2021-08-10 19:23:14   INFO [    TestsR:46  ] : browser was opened
+2021-08-10 19:23:17   INFO [  MainPage:24  ] : Page was opened https://rozetka.com.ua/
+2021-08-10 19:23:17   INFO [    TestsR:75  ] : Link was opened
+2021-08-10 19:23:19   INFO [WebElements:34  ] : Element was clicked: [[ChromeDriver: chrome on WINDOWS (068a0c0f5acce46859bec170eb70b699)] -> xpath: (//button[contains(text(),'Зарегистрироваться')])[1]]
+2021-08-10 19:27:16   INFO [    TestsR:43  ] : Get chromeDriver
+2021-08-10 19:27:16   INFO [    TestsR:46  ] : browser was opened
+2021-08-10 19:27:20   INFO [  MainPage:24  ] : Page was opened https://rozetka.com.ua/
+2021-08-10 19:27:20   INFO [    TestsR:75  ] : Link was opened
+2021-08-10 19:27:46   INFO [    TestsR:43  ] : Get chromeDriver
+2021-08-10 19:27:46   INFO [    TestsR:46  ] : browser was opened
+2021-08-10 19:27:49   INFO [  MainPage:24  ] : Page was opened https://rozetka.com.ua/
+2021-08-10 19:27:49   INFO [    TestsR:75  ] : Link was opened
+2021-08-10 19:28:09   INFO [    TestsR:43  ] : Get chromeDriver
+2021-08-10 19:28:09   INFO [    TestsR:46  ] : browser was opened
+2021-08-10 19:28:12   INFO [  MainPage:24  ] : Page was opened https://rozetka.com.ua/
+2021-08-10 19:28:12   INFO [    TestsR:75  ] : Link was opened
+2021-08-10 19:28:44   INFO [    TestsR:43  ] : Get chromeDriver
+2021-08-10 19:28:44   INFO [    TestsR:46  ] : browser was opened
+2021-08-10 19:28:48   INFO [  MainPage:24  ] : Page was opened https://rozetka.com.ua/
+2021-08-10 19:28:48   INFO [    TestsR:94  ] : Test input valid data started
+2021-08-10 19:28:50   INFO [    TestsR:102 ] : data was inputted
+2021-08-10 19:28:50   INFO [    TestsR:104 ] : Submit button was clicked
+2021-08-10 19:52:33   INFO [    TestsR:40  ] : Get chromeDriver
+2021-08-10 19:52:33   INFO [    TestsR:43  ] : browser was opened
+2021-08-10 19:52:36   INFO [  MainPage:25  ] : Page was opened https://rozetka.com.ua/
+2021-08-10 19:52:36   INFO [    TestsR:61  ] : Test input valid data InRegistrationForm started
+2021-08-10 23:03:48   INFO [    TestsR:44  ] : Get chromeDriver
+2021-08-10 23:03:48   INFO [    TestsR:47  ] : browser was opened
+2021-08-10 23:03:52   INFO [  MainPage:25  ] : Page was opened https://rozetka.com.ua/
+2021-08-10 23:03:52   INFO [    TestsR:68  ] : Test inputInvalidNumberInSignInForm started
+2021-08-10 23:08:08   INFO [    TestsR:44  ] : Get chromeDriver
+2021-08-10 23:08:08   INFO [    TestsR:47  ] : browser was opened
+2021-08-10 23:08:11   INFO [  MainPage:25  ] : Page was opened https://rozetka.com.ua/
+2021-08-10 23:08:11   INFO [    TestsR:68  ] : Test inputInvalidNumberInSignInForm started
+2021-08-10 23:09:28   INFO [    TestsR:44  ] : Get chromeDriver
+2021-08-10 23:09:29   INFO [    TestsR:47  ] : browser was opened
+2021-08-10 23:09:32   INFO [  MainPage:25  ] : Page was opened https://rozetka.com.ua/
+2021-08-10 23:09:32   INFO [    TestsR:68  ] : Test inputInvalidNumberInSignInForm started
